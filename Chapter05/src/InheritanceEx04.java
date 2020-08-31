@@ -16,5 +16,7 @@ public class InheritanceEx04 {
 		System.out.println("p.x:"+p.x);
 		System.out.println("p.y:"+p.y);
 		System.out.println(p.toString());
+	
+	
 	}
 }
